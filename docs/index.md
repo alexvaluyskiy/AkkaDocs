@@ -3,6 +3,27 @@ layout: docs.hbs
 title: Akka.NET Documentation
 ---
 
+Contents:
+
+.. toctree::
+   :maxdepth: 3
+
+   working-with-actors/creating-actors
+   persistence/snapshots
+   lifetimes
+   integration
+   diagnostics
+   howto
+   advanced
+   extensibility
+   pipeline
+   principles
+   decisions
+   legal
+   contribute
+   appendix
+   API Documentation <https://simpleinjector.org/ReferenceLibrary/>
+
 ## Akka.NET API Docs
 - [Stable API Reference](http://api.getakka.net/docs/stable/index.html)
 
